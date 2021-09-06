@@ -1,4 +1,3 @@
-![FdCoins](https://home.fordiscord.com/api/badges/profile/ashmw?style=flat&data=fdcoins)
 ![ViewCount](https://profile-counter.glitch.me/AshMW/count.svg)
 
 ![AshMW - Web Designer &amp; Front-End Developer](https://discord.mx/yZIlFEittG.png)
